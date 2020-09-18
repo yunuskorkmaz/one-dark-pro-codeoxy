@@ -1,0 +1,21 @@
+kztta2trwsnx7q3g454n74a5vaqwjowrotrnfyqqnlkpkbbhti3qkztta2trwsnx7q3g454n74a5vaqwjowrotrnfyqqnlkpkbbhti3q{
+    "name": "one-dark-codeoxy",
+    "displayName": "one-dark-codeoxy",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark By Codeoxy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark By Codeoxy-color-theme.json"
+            }
+        ]
+    }
+}
